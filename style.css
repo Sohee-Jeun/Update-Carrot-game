@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+}
 button {
   border: none;
   cursor: pointer;
@@ -23,6 +26,10 @@ body {
   flex-direction: column;
   align-items: center; /*중심축이 수직이기 때문에 align-items:center;*/
   padding: 20px;
+}
+.game__level {
+  font-size: 24px;
+  font-weight: 700;
 }
 .game__button {
   width: 60px;

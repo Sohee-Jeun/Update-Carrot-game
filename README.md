@@ -19,7 +19,9 @@
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/73260460/183547527-6bf932e8-3328-43c5-b4c6-65fc89608469.gif)
 
 ### Updated Description
-- 레벨추가, 레벨에 따라 난이도가 올라감
+- 레벨추가
+- 레벨에 따라 당근과 벌레가 
+- 레벨에 따라 당근과 벌레의 개수가 증가하면서 난이도가 올라감
 - 벌레의 움직임 추가
 
 #### move() 함수 만들기: 내가 함수를 만든 과정

@@ -82,6 +82,7 @@ class Game {
     this.hideGameButton();
     sound.stopBackground();
     this.onGameStop && this.onGameStop(reason);
+    this.gameField.stopMove();
   }
 
   onItemClick = (item) => {
